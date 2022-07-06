@@ -1,4 +1,4 @@
-<a href="https://twitter.com/DebjeetDas3" target="_blank"><img src="https://raw.githubusercontent.com/debjeet-dev/debjeet-dev/363cd406dc9a43906906f8680ea6594fcb5ee17c/readme.svg" style="width:100%"/></a>
+<a href="https://twitter.com/DebjeetDas3" target="_blank"><img src="https://raw.githubusercontent.com/debjeet-dev/debjeet-dev/6c85a8edc043f49ee4639cfa6a5dfc170a743984/readme.svg" style="width:100%"/></a>
 
 <!--![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=debjeet-dev&layout=compact)-->
 
