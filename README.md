@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/debjeet-dev/debjeet-dev/0cfcc3626e4fe7f1152819fdf23b472d0eae8e1d/readme.svg" style="width:100%"/>
+<img src="https://raw.githubusercontent.com/debjeet-dev/debjeet-dev/ae4058f0e02259dac6cc6362d8edfb698d2e5f98/readme.svg" style="width:100%"/>
 
 <!--
 # Hi, I'm Debjeet Das <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
