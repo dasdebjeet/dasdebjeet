@@ -1,3 +1,5 @@
+#<img src="https://img.icons8.com/officel/48/000000/php-logo.png"/>
+
 # Hi, I'm Debjeet Das <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 ## 💁‍♂️ About me
