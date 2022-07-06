@@ -1,5 +1,6 @@
-#<img src="https://img.icons8.com/officel/48/000000/php-logo.png"/>
+<img src="https://raw.githubusercontent.com/debjeet-dev/debjeet-dev/0cfcc3626e4fe7f1152819fdf23b472d0eae8e1d/readme.svg" style="width:100%"/>
 
+<!--
 # Hi, I'm Debjeet Das <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 ## 💁‍♂️ About me
@@ -35,7 +36,7 @@
 
 ### 🔹 Competitive Programming & Problem Solving :-
 <br>
-<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/>
+<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/> -->
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debjeet-dev&show_icons=true&locale=en&layout=compact" alt="debjeet-dev" /></p>
 
