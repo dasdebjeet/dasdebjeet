@@ -1,5 +1,7 @@
 <a href="https://twitter.com/DebjeetDas3" target="_blank"><img src="https://raw.githubusercontent.com/debjeet-dev/debjeet-dev/363cd406dc9a43906906f8680ea6594fcb5ee17c/readme.svg" style="width:100%"/></a>
 
+<!--![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=debjeet-dev&layout=compact)-->
+
 <!--
 # Hi, I'm Debjeet Das <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
