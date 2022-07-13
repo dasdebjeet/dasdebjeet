@@ -1,4 +1,6 @@
 <a href="https://dasdebjeet.github.io" target="_blank"><img src="https://raw.githubusercontent.com/debjeet-dev/debjeet-dev/6c85a8edc043f49ee4639cfa6a5dfc170a743984/readme.svg" style="width:100%"/></a>
+![](https://komarev.com/ghpvc/?username=dasdebjeet&color=blueviolet)
+
 
 <!--![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=debjeet-dev&layout=compact)-->
 
