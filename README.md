@@ -46,4 +46,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debjeet-dev&show_icons=true&locale=en" alt="debjeet-dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debjeet-dev&" alt="debjeet-dev" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dasdebjeet" alt="dasdebjeet" /></p> -->
