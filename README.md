@@ -1,4 +1,4 @@
-<a href="https://dasdebjeet.github.io" target="_blank"><img src="https://raw.githubusercontent.com/debjeet-dev/debjeet-dev/6c85a8edc043f49ee4639cfa6a5dfc170a743984/readme.svg" style="width:100%"/></a>
+<a href="https://dasdebjeet.github.io" target="_blank"><img src="https://raw.githubusercontent.com/dasdebjeet/dasdebjeet/7e60c498160801f21f4dd51f821c9b1e90c896f0/readme.svg" style="width:100%"/></a>
 ![](https://komarev.com/ghpvc/?username=dasdebjeet&color=blueviolet)
 
 
